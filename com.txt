@@ -1,0 +1,2 @@
+gcc servidor.c -o servidor.exe -lws2_32
+gcc cliente.c -o cliente.exe -lws2_32
